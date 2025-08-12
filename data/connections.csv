@@ -1,0 +1,5 @@
+from,to,relationship_type
+Alice Brown,Bob Chen,collaborator
+Carla Diaz,Bob Chen,mentor
+Alice Brown,David Singh,project partner
+David Singh,Carla Diaz,network connection
