@@ -26,7 +26,14 @@ def display_graph(users, connections):
 
     net = Network(height='1000px', width='1000', bgcolor='white', font_color='black')
     net.from_nx(G)
-
+    net.barnes_hut()  # good default
+    net.repulsion(    # push nodes apart
+        node_distance=180,
+        central_gravity=0.02,
+        spring_length=180,
+        spring_strength=0.03,
+        damping=0.09
+    )
     temp_path = tempfile.NamedTemporaryFile(delete=False, suffix='.html')
     net.save_graph(temp_path.name)
 
