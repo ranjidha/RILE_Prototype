@@ -73,7 +73,8 @@ elif page == "🌐 Graph":
     st.title("Collaboration Network")
     st.info("Generating the graph. This may take a few seconds if the dataset is large...")
     html_graph = display_graph(users, connections)
-    st.components.v1.html(html_graph, height=600, scrolling=True)
+    st.components.v1.html(html_graph, height=1200, scrolling=True)
+
 
 # Simulated notifications
 if show_notifications:
