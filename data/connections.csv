@@ -1,5 +1,69 @@
 from,to,relationship_type
-Alice Brown,Bob Chen,collaborator
-Carla Diaz,Bob Chen,mentor
-Alice Brown,David Singh,project partner
-David Singh,Carla Diaz,network connection
+Dawn Cummings,P: U.S. Fish and Wildlife Service,personal connection
+Mark Koester,"P: Center for Advanced STEM Education, MSU Denver",personal connection
+Megan Lazorski,P: National Renewable Energy Laboratory,personal connection
+Jennifer Hyslop,"P: MindSpark Learning, P: Project Lead The Way (PLTW)",personal connection
+Danielle Ardrey,P: Project Learning Tree,personal connection
+Katie E Weaver,"P: Center for Advanced STEM Education, MSU Denver, P: Denver Public Schools, P: DSST Public Schools, P: Jeffco Public Schools, P: Metropolitan State University of Denver",personal connection
+Elizabeth Ribble,"P: Center for Advanced STEM Education, MSU Denver, P: Community College of Denver, P: Metropolitan State University of Denver, P: National Renewable Energy Laboratory",personal connection
+Dr. Janelle M. Johnson,"P: Adams 12 Five Star Schools, P: Arrupe Corporate Work Study, P: Center for Advanced STEM Education, MSU Denver, P: Charles Hay World School, P: CoCoRaHS - Community Collaborative Rain, Hail and Snow network, P: Colorado Alliance for Environmental Education, P: Colorado GLOBE ESS Collaborative, P: Colorado Springs School District 11, P: Colorado Succeeds, P: CU Science Discovery, University of Colorado Boulder, P: Denver Botanic Gardens, P: Denver Urban Gardens, P: eBodyGuard, P: eduKatey, LLC, P: EiE, Museum of Science, Boston, P: EnCorps STEM Teachers Program, P: Erie Elementary School, P: Esri, P: Fort Lewis College, P: Girls Inc. of Metro Denver, P: Girls Who Code, P: IDEA Colorado, P: Jeffco Public Schools, P: Littleton Public Schools, P: Metropolitan State University of Denver, P: Microsoft Philanthropies TEALS Program, P: MindSpark Learning, P: NCWIT (National Center for Women & Information Technology), P: Northstar Dental, P: NSBE Denver Professionals, P: PEBC - Public Education & Business Coalition, P: PEER Physics University of Colorado, P: Project Lead The Way (PLTW), P: Project Learning Tree, P: STEM is My Future, P: STEM Jobs Magazine, P: STEM Lab, P: STEM Launch, P: SVVSD, P: The Henry Ford, P: Thompson R2J School District, P: TinkerMill, The Longmont Makerspace, P: UCCS Pre-Collegiate, P: Underwriters Laboratories Office of Research Experiences and Education, P: University of Northern Colorado, P: US Drone Soccer, P: Well Works",personal connection
+Dorothy Shapland,"P: Colorado Alliance for Environmental Education, P: Metropolitan State University of Denver, P: Project Learning Tree",personal connection
+Josh Kumin,"P: Center for Advanced STEM Education, MSU Denver, P: Metropolitan State University of Denver",personal connection
+Stacey Forsyth,"P: Adams 12 Five Star Schools, P: Anythink Libraries, P: Center for Advanced STEM Education, MSU Denver, P: Colorado Alliance for Environmental Education, P: Community College of Denver, P: Denver Urban Gardens, P: Esri, P: Fort Lewis College, P: Garden To Table, P: Metropolitan State University of Denver, P: Northglenn High School, P: Project Learning Tree, P: STEM Launch",personal connection
+Veronica Corral Flores,"P: Colorado Springs School District 11, P: Community College of Denver, P: MSU Denver Noyce U-R STEM, P: University of Colorado Colorado Springs, P: University of Northern Colorado",personal connection
+Katie Boyd,"P: Colorado Alliance for Environmental Education, P: CU Science Discovery, University of Colorado Boulder, P: Denver Public Schools, P: Esri, P: Jeffco Public Schools, P: Mathematics and Science Teaching (MAST) Institute, P: National Renewable Energy Laboratory, P: Project Learning Tree, P: University of Northern Colorado, P: Wild Rose Education",personal connection
+Beverly R DeVore-Wedding,"P: CIRES Education & Outreach, P: Colorado Alliance for Environmental Education, P: CU Science Discovery, University of Colorado Boulder, P: Mathematics and Science Teaching (MAST) Institute, P: Project Learning Tree",personal connection
+Janet Stomberg,"P: Center for Advanced STEM Education, MSU Denver, P: Colorado Space Grant Consortium, P: Denver Audubon, P: Denver Botanic Gardens, P: Denver Public Schools, P: Fort Lewis College, P: U.S. Fish and Wildlife Service, P: University of Colorado Colorado Springs",personal connection
+Rachel Moore,"P: 4-H CSU, P: Adams 12 Five Star Schools",personal connection
+Taylor Ruffin,P: Colorado State Forest Service,personal connection
+Ezequiel Villanueva,"P: Anythink Libraries, P: Denver Botanic Gardens, P: MindSpark Learning",personal connection
+Jasen Ritter,P: Project Lead The Way (PLTW),personal connection
+Stephen Morgan,"P: Colorado Succeeds, P: Community College of Denver, P: Denver Public Schools, P: Fort Lewis College, P: Metropolitan State University of Denver, P: Red Rocks Community College, P: STEM School Highlands Ranch",personal connection
+Heidi Ragsdale,"P: Adams 12 Five Star Schools, P: CIRES Education & Outreach, P: Colorado Space Grant Consortium, P: Colorado Succeeds, P: CU Science Discovery, University of Colorado Boulder, P: Esri, P: MindSpark Learning, P: Northglenn High School, P: TinkerMill, The Longmont Makerspace, P: University of Colorado Colorado Springs, P: Wild Rose Education",personal connection
+Melissa Risteff,"P: Adams 12 Five Star Schools, P: Colorado Springs School District 11, P: CU Science Discovery, University of Colorado Boulder, P: Denver Public Schools, P: Jeffco Public Schools, P: Metropolitan State University of Denver, P: MindSpark Learning, P: Northglenn High School, P: Pueblo District 60, P: STEM Launch",personal connection
+Kellie Lauth,"P: Adams 12 Five Star Schools, P: MindSpark Learning",personal connection
+Kerry Glenn,"P: Adams 12 Five Star Schools, P: Anythink Libraries, P: City of Northglenn, P: CU Science Discovery, University of Colorado Boulder, P: Denver Urban Gardens, P: FutureForward at Bollman, P: STEM Lab, P: STEM Launch, P: STEM School Highlands Ranch",personal connection
+Victor Claud,P: MindSpark Learning,personal connection
+Chris O'Reilly,P: University of Colorado Colorado Springs,personal connection
+Patrick Pulis,"P: Colorado Afterschool Partnership, P: CSU Extension Arapahoe County, P: University of Northern Colorado",personal connection
+Eric Hotz,"P: Adams 12 Five Star Schools, P: Adams State University, P: Anythink Libraries, P: City of Northglenn, P: City of Westminster, P: Colorado State Forest Service, P: Colorado Succeeds, P: CU Science Discovery, University of Colorado Boulder, P: EVERFI, P: Fort Lewis College, P: FutureForward at Bollman, P: Girls Inc. of Metro Denver, P: Metropolitan State University of Denver, P: MindSpark Learning, P: MSU Denver Noyce U-R STEM, P: Project Lead The Way (PLTW), P: STEM Lab, P: STEM Launch, P: University of Northern Colorado",personal connection
+Christina Foust,"P: Center for Advanced STEM Education, MSU Denver, P: Denver Public Schools, P: DSST Public Schools, P: Fort Lewis College, P: Metropolitan State University of Denver, P: University of Northern Colorado",personal connection
+Janae Hunderman,"P: Colorado Succeeds, P: Denver Public Schools, P: DSST Public Schools, P: Fort Lewis College, P: Jeffco Public Schools, P: Littleton Public Schools, P: Metropolitan State University of Denver, P: National Renewable Energy Laboratory, P: Southwest Colorado Education Collaborative",personal connection
+Roberto De Mata,"P: Center for Advanced STEM Education, MSU Denver, P: CU Science Discovery, University of Colorado Boulder, P: Denver Public Schools, P: Metropolitan State University of Denver, P: MSU Denver, P: MSU Denver Noyce U-R STEM",personal connection
+Charlie Buckley,P: Thompson R2J School District,personal connection
+Margaret Pauls,"P: Anythink Libraries, P: Colorado Alliance for Environmental Education, P: Colorado Springs School District 11, P: Colorado Workforce Development Council & Colorado Department of Education, P: Community College of Denver, P: Denver Botanic Gardens, P: Denver Public Schools, P: Denver Urban Gardens, P: DSST Public Schools, P: Earth Force, P: National Renewable Energy Laboratory",personal connection
+Arielle Rainey,P: Community College of Denver,personal connection
+Hsiu-Ping Liu,P: Metropolitan State University of Denver,personal connection
+Chad Cookinham,P: Colorado Succeeds,personal connection
+Wayne Seltzer,"P: CU Science Discovery, University of Colorado Boulder, P: Kids2GLOW, PBC",personal connection
+Maya M Garcia,"P: CIRES Education & Outreach, P: Colorado Alliance for Environmental Education, P: Colorado School of Mines, P: Colorado Springs School District 11, P: Denver Public Schools, P: Jeffco Public Schools, P: Littleton Public Schools, P: MSU Denver Noyce U-R STEM, P: NCWIT (National Center for Women & Information Technology), P: Project Learning Tree, P: Pueblo District 60, P: STEM is My Future",personal connection
+Eric Petty,P: Colorado Foundation for Agriculture,personal connection
+Katya Schloesser,"P: CIRES Education & Outreach, P: Colorado Alliance for Environmental Education, P: Colorado State Forest Service, P: Earth Force, P: Esri, P: National Renewable Energy Laboratory, P: STEM Launch, P: University of Colorado Boulder, P: Wild Rose Education",personal connection
+Devyn Halsted,"P: Adams 12 Five Star Schools, P: Adams State University, P: Arrupe Corporate Work Study, P: Colorado Department of Education, P: Colorado School of Mines, P: Colorado Springs School District 11, P: Colorado State University Pueblo, P: Colorado Workforce Development Council & Colorado Department of Education, P: Community College of Denver, P: Dakota Ridge High School, P: Denver Botanic Gardens, P: Denver Public Schools, P: Denver Urban Gardens, P: DSST Public Schools, P: FutureForward at Bollman, P: Jeffco Public Schools, P: Littleton Public Schools, P: Metropolitan State University of Denver, P: Northglenn High School, P: Pinnacle Charter School, P: STEM Lab, P: STEM Launch, P: SVVSD, P: Thompson R2J School District, P: University of Northern Colorado, P: Wild Rose Education",personal connection
+Chelsie Romulo,"P: Colorado Alliance for Environmental Education, P: Fort Lewis College, P: U.S. Fish and Wildlife Service, P: Wild Rose Education",personal connection
+John Ristvey,"P: Adams 12 Five Star Schools, P: Anythink Libraries, P: CIRES Education & Outreach, P: CoCoRaHS - Community Collaborative Rain, Hail and Snow network, P: Colorado GLOBE ESS Collaborative, P: Colorado School of Mines, P: Esri, P: University of Northern Colorado, P: WestEd",personal connection
+Nancy Hernandez,"P: University of Colorado Boulder, P: University of Colorado Colorado Springs",personal connection
+Arthur Antoine,P: Denver Public Schools,personal connection
+Jonathan Griffith,"P: CIRES Education & Outreach, P: Colorado GLOBE ESS Collaborative, P: Denver Public Schools, P: Esri, P: Jeffco Public Schools, P: SVVSD, P: University of Colorado Boulder",personal connection
+Ron Vasquez,"P: Adams 12 Five Star Schools, P: City of Westminster, P: Colorado School of Mines, P: Colorado Space Grant Consortium, P: Community College of Denver, P: Denver Public Schools, P: Jeffco Public Schools, P: Metropolitan State University of Denver, P: Northglenn High School STEM, P: Project Lead The Way (PLTW), P: Red Rocks Community College, P: University of Denver",personal connection
+Lynnane George,"P: Colorado Springs School District 11, P: US Drone Soccer",personal connection
+Yvonne Gray,"P: Colorado Department of Education, P: Colorado School of Mines, P: Dakota Ridge High School, P: Denver Botanic Gardens, P: Jeffco Public Schools, P: University of Colorado Boulder, P: University of Denver",personal connection
+Emily Ward,"P: CIRES Education & Outreach, P: University of Colorado Boulder",personal connection
+Daniela Pennycook,"P: CIRES, P: CIRES Education & Outreach, P: University of Colorado Boulder",personal connection
+Meg John,"P: Adams 12 Five Star Schools, P: Colorado Succeeds, P: CU Science Discovery, University of Colorado Boulder, P: Denver Urban Gardens, P: Girls Inc. of Metro Denver, P: MindSpark Learning, P: Northglenn High School STEM, P: SVVSD, P: Thompson R2J School District, P: UCAR Center for Science Education, P: University of Colorado Boulder",personal connection
+Julia Derk,P: National Renewable Energy Laboratory,personal connection
+Ranjidha Rajan,"P: Girls Who Code, P: Metropolitan State University of Denver, P: Metropolitan State University of Denver - School of Education",personal connection
+Daisy Raymondson,P: University of Colorado Boulder,personal connection
+Carolyn Bauer,"P: Colorado School of Mines, P: Metropolitan State University of Denver, P: University of Denver",personal connection
+Nancy Kellogg,"P: CDE, P: CIRES Education & Outreach, P: Colorado Alliance for Environmental Education, P: Colorado Department of Education, P: Colorado Science Education Network, P: CU Science Discovery, University of Colorado Boulder, P: Natural Sciences Education and Outreach Center, P: PEER Physics University of Colorado, P: UCAR Center for Science Education, P: University of Colorado Boulder",personal connection
+Daniela Del Cid ,"P: Adams 12 Five Star Schools, P: PEBC - Public Education & Business Coalition, P: PEER Physics University of Colorado",personal connection
+Yoko Laidley,"P: Adams 12 Five Star Schools, P: Anythink Libraries",personal connection
+Jennifer Hyslop,"P: 4-H CSU, P: Adams State University, P: CDE, P: Colorado Department of Education, P: Colorado State University Pueblo, P: Girls Who Code, P: Kids2GLOW, PBC, P: MindSpark Learning, P: Pitsco Education, P: Project Lead The Way (PLTW), P: Pueblo District 60, P: Roncalli Stem Academy",personal connection
+Kaitlen Farruggia,P: CDE,personal connection
+Stephenie Marantino,P: Westminster High School,personal connection
+Kris Skavish,P: Jeffco Public Schools,personal connection
+Katie Novak,"P: Metropolitan State University of Denver - School of Education, P: University of Colorado Boulder",personal connection
+Julia Senecal,"P: CDE, P: Colorado Department of Education, P: Dakota Ridge High School, P: Denver Public Schools, P: Denver Urban Gardens, P: Jeffco Public Schools, P: MindSpark Learning, P: U.S. Fish and Wildlife Service, P: University of Denver",personal connection
+Ben Arnold 2,P: Pitsco Education,personal connection
+"Nancy M. Major, MD","P: DSST - Aurora Science and Tech, P: DSST Public Schools, P: MindSpark Learning, P: University of Colorado Boulder, P: University of Colorado Colorado Springs",personal connection
+Jennifer Norford,"P: Metropolitan State University of Denver, P: UCAR Center for Science Education, P: WestEd",personal connection
