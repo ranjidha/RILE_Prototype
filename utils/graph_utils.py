@@ -24,7 +24,7 @@ def display_graph(users, connections):
         label = row.get('relationship_type', '')
         G.add_edge(source, target, title=label)
 
-    net = Network(height='1000px', width='1000', bgcolor='white', font_color='black')
+    net = Network(height='1000px', width='100%', bgcolor='white', font_color='black')
     net.from_nx(G)
     net.barnes_hut()  # good default
     net.repulsion(    # push nodes apart
