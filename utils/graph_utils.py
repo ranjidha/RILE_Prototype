@@ -26,7 +26,7 @@ def display_graph(users, connections):
 
     # Create PyVis network
     net = Network(height='1000px', width='100%', bgcolor='white', font_color='black')
-
+    net.from_nx(G)
     # Add nodes with size proportional to degree
     for node in G.nodes():
         degree = G.degree(node)
