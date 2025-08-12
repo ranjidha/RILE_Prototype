@@ -15,7 +15,7 @@ def display_graph(users, connections):
         name = str(row['name'])  # Ensure node ID is a string
         title = row.get('role', '')
         group = row.get('interests', '')
-        G.add_node(name, title=title, group=group)
+        G.add_node(name, title=title, group=group,size=30)
 
     # Add edges with safe string conversion
     for _, row in connections.iterrows():
